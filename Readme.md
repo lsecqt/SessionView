@@ -133,7 +133,3 @@ This project is provided as-is for educational and administrative purposes.
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## Author
-
-Created for Windows Server administration and session management tasks.
